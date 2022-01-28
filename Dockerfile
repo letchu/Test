@@ -1,6 +1,6 @@
 #getting new image
 
-FROM nginx
+FROM alpine
 
 MAINTAINER Laxman
 
