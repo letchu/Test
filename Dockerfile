@@ -1,6 +1,6 @@
 #getting new image
 
-FROM alpine
+FROM ubundu
 
 MAINTAINER Laxman
 
