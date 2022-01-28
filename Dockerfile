@@ -1,6 +1,6 @@
 #getting new image
 
-FROM scratch
+FROM nginx
 
 MAINTAINER Laxman
 
