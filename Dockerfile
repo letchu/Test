@@ -4,6 +4,8 @@ FROM ubuntu
 
 MAINTAINER Laxman
 
+Sudo Docker build /var/lib/jenkins/workspace/Testjob -t secondimage:2.0
+
 RUN apt-get update
 
 CMD ["echo", "Hellow world"]
