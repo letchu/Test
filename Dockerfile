@@ -1,4 +1,4 @@
-$ getting new image
+#getting new image
 
 FROM ubuntu
 
