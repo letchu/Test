@@ -1,6 +1,6 @@
 #getting new image
 
-FROM ubuntu
+FROM scratch
 
 MAINTAINER Laxman
 
