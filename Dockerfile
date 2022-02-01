@@ -1,7 +1,7 @@
 #getting new image
 
-FROM ubundu
+FROM scratch
 
 MAINTAINER Laxman
 
-CMD ["echo", "Hellow world"]
+CMD ["echo", "Hellow docker"]
